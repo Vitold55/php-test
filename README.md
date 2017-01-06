@@ -1,3 +1,3 @@
 # Different php test
-#
-# 1. Polymorphism
+
+1. Polymorphism
